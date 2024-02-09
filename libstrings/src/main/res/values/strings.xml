@@ -1,0 +1,7 @@
+<resources>
+    <string name="android">Android</string>
+    <string name="gradle">Gradle</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="go">Golang</string>
+    <string name="stefma">StefMa</string>
+</resources>

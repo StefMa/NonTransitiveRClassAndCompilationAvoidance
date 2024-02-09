@@ -1,0 +1,3 @@
+package guru.stefma.nontransitiverclassandcompilationavoidance.lib1
+
+data object NoResClass
